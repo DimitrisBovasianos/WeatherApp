@@ -1,0 +1,10 @@
+**/.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+.cache
+.coverage*
+dist
+*.egg-info
+.eggs/
+.pytest_cache
